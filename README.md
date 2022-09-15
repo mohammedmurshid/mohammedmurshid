@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 📫 How to reach me **murshid434@gmail.com**
+- 📫 How to reach me **murshid@codestreak.in**
 
 - ⚡ Fun fact **I am too lazy**
 
