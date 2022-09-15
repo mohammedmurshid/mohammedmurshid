@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 🧰 Building CodeStreak.in with my team
+- 🧰 Building **CodeStreak.in** with my team
 
 - 📫 How to reach me **murshid@codestreak.in**
 
