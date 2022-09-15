@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
+- 🧰 Building CodeStreak.in with my team
+
 - 📫 How to reach me **murshid@codestreak.in**
 
 - ⚡ Fun fact **I am too lazy**
