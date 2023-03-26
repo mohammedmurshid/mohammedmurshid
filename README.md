@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedmurshid" alt="mohammedmurshid" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **React.js**
 
-- 🧰 Currently working on <a>BookWorm</a>
+- 🧰 Currently working on <a>Connectify</a>
 
 - 📫 How to reach me **murshid@codestreak.in**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/mohammedmurshid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohammedmurshid" height="30" width="40" /></a>
 <a href="https://twitter.com/mohdmurshid434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohdmurshid434" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed-murshid-00a951156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-murshid-00a951156" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/m0hammedmurshid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-murshid-00a951156" height="30" width="40" /></a>
 <a href="https://instagram.com/m0hammedmurshid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m0hammedmurshid" height="30" width="40" /></a>
 </p>
 
